@@ -24,6 +24,8 @@ You must have Swift 5, iOS 13.0+, and Xcode 12.0+ to run this app.
 
 - **FeedVC**: The main view controller manages the social feed. It handles the fetching of posts, setting up the collection view, and refreshing the feed when new data is available.
 
+Figma: https://www.figma.com/design/L2BUmqxxmh7jjuPCx9hBuX/ChatDev-iOS?node-id=0-1&p=f&t=UUjTGKX75H7X4hXS-0
+
 - **NetworkManager**: A singleton responsible for fetching posts from a server. It abstracts the network layer and provides the app with fresh data each time the feed is refreshed.
 
 - **Collection View**: The app uses a UICollectionView to display posts in a list format. It supports vertical scrolling and customizable cell layouts for both the create post and feed sections.
