@@ -1,0 +1,14 @@
+# Xcode specific
+*.xcuserstate
+*.xcworkspace
+DerivedData/
+.DS_Store
+*.xcodeproj/project.xcworkspace/
+*.xcconfig
+.idea/
+*.DS_Store
+.build/
+xcshareddata/
+xcuserdata/
+## Build generated
+build/
